@@ -23,7 +23,11 @@
    border: 5px solid #000;
 }
 
-.img_noticia {
-    width: 100%;
-    height: auto;
+.noticia {
+  margin: 10px;
+}
+
+#noticias {
+    display: flex;
+    justify-content: space-around;
 }
