@@ -66,7 +66,7 @@ footer{
 }
 .txt{ 
     
-    grid-template-columns: 140px 190px 170px 180px 190px 140px 140px 140px 140px 140px 140px;
+    grid-template-columns: 140px 190px 170px 180px 190px 170px 170px 190px 180px 180px 180px;
     display: grid;
     
     background-color: #ffffff;
