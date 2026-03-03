@@ -95,3 +95,9 @@ footer{
     border-radius: 50%;
     display: flex;
 }
+
+#gif-vasco{
+    right: 0px;
+    position: fixed;
+    bottom: -140px;
+}
